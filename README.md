@@ -1,1 +1,2 @@
-# minecraft-1.7.10-mod-to-jp-lang
+# minecraft 1.7.10 mod to jp lang
+マインクラフト 1.7.10 のMODの中から日本語がないもの、日本語がおかしいものをそれっぽく翻訳しています。
