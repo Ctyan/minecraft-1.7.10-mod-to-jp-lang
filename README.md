@@ -1,0 +1,1 @@
+# minecraft-1.7.10-mod-to-jp-lang
