@@ -1,0 +1,175 @@
+#ja_JP
+
+itemGroup.thermaldynamics.creativeTab=Thermal Dynamics
+itemGroup.thermaldynamics.creativeTabCovers=Thermal Dynamics: Covers
+
+tile.thermaldynamics.duct=Duct
+tile.thermaldynamics.duct.energyBasic.name=鉛石RF導管
+tile.thermaldynamics.duct.energyHardened.name=硬化RF導管
+tile.thermaldynamics.duct.energyReinforced.name=増強RF導管
+tile.thermaldynamics.duct.energyReinforcedEmpty.name=増強RF導管 (未加工)
+tile.thermaldynamics.duct.energyResonant.name=共振RF導管
+tile.thermaldynamics.duct.energyResonantEmpty.name=共振RF導管 (未加工)
+tile.thermaldynamics.duct.energySuperconductor.name=凍結安定化RF導管
+tile.thermaldynamics.duct.energySuperconductorEmpty.name=凍結安定化RF導管 (未加工)
+
+tile.thermaldynamics.duct.fluidBasic.name=常温液体導管
+tile.thermaldynamics.duct.fluidHardened.name=硬化液体導管
+tile.thermaldynamics.duct.fluidFlux.name=電導液体導管
+tile.thermaldynamics.duct.fluidSuper.name=超層液体導管
+
+tile.thermaldynamics.duct.itemBasic.name=基本アイテム導管
+tile.thermaldynamics.duct.itemFast.name=高速アイテム導管
+tile.thermaldynamics.duct.itemFlux.name=電導アイテム導管
+tile.thermaldynamics.duct.itemEnder.name=瞬速アイテム導管
+
+tile.thermaldynamics.duct.structure.name=建築導管
+tile.thermaldynamics.duct.structureGlow.name=光導管
+
+tile.thermaldynamics.duct.energySupercond.info=この導管はRFを溜め込みません。
+
+tile.thermaldynamics.duct.fluidBasic.info=極端な温度の液体を流すと破損します。
+tile.thermaldynamics.duct.fluidHardened.info=どんな温度の液体も流せます。
+tile.thermaldynamics.duct.fluidFlux.info=液体とRFを通します。
+
+tile.thermaldynamics.duct.fluidSuper.info=詰まることなく液体を流せます。
+
+tile.thermaldynamics.duct.itemBasic.info=アイテムを輸送します。
+tile.thermaldynamics.duct.itemFast.info=グロウストーンで満たされており、アイテムを高速に輸送します。
+tile.thermaldynamics.duct.itemEnder.info=RFが供給されているときは、アイテムを瞬時に目的地まで輸送します。
+tile.thermaldynamics.duct.itemFlux.info=アイテムとRFを通します。
+tile.thermaldynamics.duct.structure.info=装飾用です。
+
+tile.thermaldynamics.duct.opaque.name=%s (不透明)
+tile.thermaldynamics.duct.dense.name=加速 %s
+tile.thermaldynamics.duct.vacuum.name=減速 %s
+
+item.thermaldynamics.cover.name=カバー
+
+item.thermaldynamics.filter.info=流れるアイテムや液体を制限します。
+item.thermaldynamics.retriever.info=導管内のアイテムや液体を搬入します。
+item.thermaldynamics.servo.info=導管内へアイテムや液体を搬出します。
+item.thermaldynamics.relay.info=レッドストーン信号を通します。
+
+item.thermaldynamics.filter.0.name=基本フィルター
+item.thermaldynamics.filter.1.name=硬化フィルター
+item.thermaldynamics.filter.2.name=増強フィルター
+item.thermaldynamics.filter.3.name=シグナルムフィルター
+item.thermaldynamics.filter.4.name=共振フィルター
+
+item.thermaldynamics.servo.0.name=基本サーボ
+item.thermaldynamics.servo.1.name=硬化サーボ
+item.thermaldynamics.servo.2.name=増強サーボ
+item.thermaldynamics.servo.3.name=シグナルムサーボ
+item.thermaldynamics.servo.4.name=共振サーボ
+
+item.thermaldynamics.retriever.0.name=基本レトリーバー
+item.thermaldynamics.retriever.1.name=硬化レトリーバー
+item.thermaldynamics.retriever.2.name=増強レトリーバー
+item.thermaldynamics.retriever.3.name=シグナルムレトリーバー
+item.thermaldynamics.retriever.4.name=共振レトリーバー
+
+item.thermaldynamics.relay.name=レッドストーンリレー
+
+info.thermaldynamics.capacitance=容量
+info.thermaldynamics.transfer=許容RF量
+info.thermaldynamics.transferConnection=電送量は接続数に依存します。
+info.thermaldynamics.transferFluid=流量は液体によって異なります。
+info.thermaldynamics.toggle=右クリックでモードを切り替えます。
+
+info.thermaldynamics.duct.energy=RFを通します。
+info.thermaldynamics.duct.fluid=液体を通します。
+info.thermaldynamics.duct.item=アイテムを通します。
+info.thermaldynamics.duct.structure=装飾用です。
+info.thermaldynamics.duct.light=レッドストーン信号を受けている時に光ります。
+info.thermaldynamics.duct.crafting=中間素材です。
+info.thermaldynamics.duct.cover=ブロックと合わせるとカバーができます。
+info.thermaldynamics.duct.dense=アイテムや液体が加速します。
+info.thermaldynamics.duct.vacuum=アイテムや液体が減速します。
+
+info.thermaldynamics.filter.options=フィルター設定
+info.thermaldynamics.filter.whiteList=ブラックリスト
+info.thermaldynamics.filter.metadata=メタデータ
+info.thermaldynamics.filter.nbt=NBT (データタグ)
+info.thermaldynamics.filter.oreDict=鉱石辞書
+info.thermaldynamics.filter.modSorting=MOD名
+
+info.thermaldynamics.filter.whiteList.off=ホワイトリスト
+info.thermaldynamics.filter.whiteList.on=ブラックリスト
+info.thermaldynamics.filter.metadata.off=メタデータで識別
+info.thermaldynamics.filter.metadata.on=メタデータを無視
+info.thermaldynamics.filter.nbt.off=NBT (データタグ)で識別
+info.thermaldynamics.filter.nbt.on=NBT (データタグ)を無視
+info.thermaldynamics.filter.oreDict.off=鉱石辞書名で識別
+info.thermaldynamics.filter.oreDict.on=鉱石辞書名を無視
+info.thermaldynamics.filter.modSorting.off=MOD名で識別
+info.thermaldynamics.filter.modSorting.on=MOD名を無視
+
+info.thermaldynamics.filter.routeType.0=ストレージの左上から順に
+info.thermaldynamics.filter.routeType.1=ストレージの右下から順に
+info.thermaldynamics.filter.routeType.2=ランダム
+info.thermaldynamics.filter.routeType.3=ラウンドロビン
+
+info.thermaldynamics.filter.antiSpam.0=容量を超えての搬入を許可
+info.thermaldynamics.filter.antiSpam.1=容量を超えての搬入を不可
+
+info.thermaldynamics.filter.incRetainSize=ストレージの合計アイテム量を増やします。
+info.thermaldynamics.filter.decRetainSize=ストレージの合計アイテム量を減らします。
+info.thermaldynamics.filter.zeroRetainSize=制限なし
+
+info.thermaldynamics.servo.incStackSize=搬出量を増やします。
+info.thermaldynamics.servo.decStackSize=搬出量を減らします。
+
+info.thermaldynamics.servo.extractRate=搬出速度
+info.thermaldynamics.servo.speedBoost=速度増加
+info.thermaldynamics.servo.maxStackSize=最大搬出量
+info.thermaldynamics.servo.redstoneExt=レッドストーン信号
+info.thermaldynamics.servo.redstoneInt=レッドストーン制御
+info.thermaldynamics.servo.slotMulti=複数のスロットから搬出します。
+info.thermaldynamics.servo.slotSingle=一つのスロットから搬出します。
+
+recipe.thermaldynamics.covers=カバー制作
+
+#redstone relay localization
+info.thermaldynamics.relay.invert.0=比例
+info.thermaldynamics.relay.invert.1=反比例
+info.thermaldynamics.relay.invert.2=しきい値
+info.thermaldynamics.relay.invert.3=反しきい値
+
+info.thermaldynamics.relay.type.0=レッドストーン入力
+info.thermaldynamics.relay.type.1=レッドストーン出力
+info.thermaldynamics.relay.type.2=コンパレータ入力
+
+info.thermaldynamics.relay.threshold=しきい値 >=
+
+info.thermaldynamics.relay.relayRS=リレーパワー
+info.thermaldynamics.relay.gridRS=導管パワー
+
+#duct info
+info.thermaldynamics.info.duct=-導管情報-
+info.thermaldynamics.info.attachment=-追加情報-
+info.thermaldynamics.info.size=サイズ
+info.thermaldynamics.info.redstone=レッドストーン
+info.thermaldynamics.info.items=アイテム
+info.thermaldynamics.info.fluid=液体
+info.thermaldynamics.info.fluidThroughput=最大液体処理量
+info.thermaldynamics.info.energy=RF
+info.thermaldynamics.info.tracker.cur=現在のレベル
+info.thermaldynamics.info.tracker.avg=5秒・平均・レベル
+info.thermaldynamics.info.tracker.avgInOut=5秒・平均・入力/出力
+info.thermaldynamics.info.tracker.activate=トラッキングを開始する
+
+info.thermaldynamics.transport.name=輸送導管
+info.thermaldynamics.transport.config=設定
+info.thermaldynamics.transport.waiting=情報を待っている
+info.thermaldynamics.transport.nodest=目的地がありません
+info.thermaldynamics.transport.unnamed=無名
+
+tile.thermaldynamics.duct.transport.name=高架橋
+tile.thermaldynamics.duct.transportLongRange.name=長距離高架橋
+tile.thermaldynamics.duct.transportAcceleration.name=長距離接続高架橋
+tile.thermaldynamics.duct.transportCrafting.name=高架橋 (未加工)
+
+info.thermaldynamics.duct.transport=プレイヤーを輸送します。ビューン！
+info.thermaldynamics.duct.transportLongRange=特定の2つの場所を高速輸送します。
+info.thermaldynamics.duct.transportCrossover=長距離高架橋の終点。 必ず必要です。
